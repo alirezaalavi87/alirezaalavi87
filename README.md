@@ -6,8 +6,6 @@ My main portal to the web is [my website](https://alavi.me), So please visit my 
 
 I try to stay away from github due to privacy and freedom concerns, and that it's proprietary software. So I host my important FOSS projects on other platforms like codeberg ([my codeberg page](https://codeberg.org/alirezaalavi/)).
 
-There's more about me on [my website](https://alavi.me/about).
-
 Subscribe to my atom feed
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://alavi.me/atom.xml)
 
